@@ -1,0 +1,14 @@
+﻿5/24/2021
+There is a minor issue with our program, which is the cross of winform interface can't actually exit with 
+5/31/2021
+Need a record file to store all the record before we publish it.
+6/17/2021
+need a class to load and change xml data.
+6/18/2021
+Xmlreader function need to be defined
+define a death function and save function: select node that we need derive to.
+Xmlfunction only used to change the information
+6/25/2021
+Reading and writing function for the Russian Rouletted have completed. The next thing is to complete function of hanging man.
+For Russian roulette, we need add some special effect to message box.
+Need more completion on interaction functions of Form3()

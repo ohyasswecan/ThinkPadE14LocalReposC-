@@ -1,0 +1,16 @@
+C:\Users\junda\source\repos\PracticeGameDigitalTechnologyVer1.4\bin\Debug\PracticeGameDigitalTechnologyVer1.4.exe.config
+C:\Users\junda\source\repos\PracticeGameDigitalTechnologyVer1.4\bin\Debug\PracticeGameDigitalTechnologyVer1.4.exe
+C:\Users\junda\source\repos\PracticeGameDigitalTechnologyVer1.4\bin\Debug\PracticeGameDigitalTechnologyVer1.4.pdb
+C:\Users\junda\source\repos\PracticeGameDigitalTechnologyVer1.4\obj\Debug\PracticeGameDigitalTechnologyVer1.4.csprojAssemblyReference.cache
+C:\Users\junda\source\repos\PracticeGameDigitalTechnologyVer1.4\obj\Debug\PracticeGameDigitalTechnologyVer1._4.Form1.resources
+C:\Users\junda\source\repos\PracticeGameDigitalTechnologyVer1.4\obj\Debug\PracticeGameDigitalTechnologyVer1._4.Form2.resources
+C:\Users\junda\source\repos\PracticeGameDigitalTechnologyVer1.4\obj\Debug\PracticeGameDigitalTechnologyVer1._4.Properties.Resources.resources
+C:\Users\junda\source\repos\PracticeGameDigitalTechnologyVer1.4\obj\Debug\PracticeGameDigitalTechnologyVer1.4.csproj.GenerateResource.cache
+C:\Users\junda\source\repos\PracticeGameDigitalTechnologyVer1.4\obj\Debug\PracticeGameDigitalTechnologyVer1.4.csproj.CoreCompileInputs.cache
+C:\Users\junda\source\repos\PracticeGameDigitalTechnologyVer1.4\obj\Debug\PracticeGameDigitalTechnologyVer1.4.exe
+C:\Users\junda\source\repos\PracticeGameDigitalTechnologyVer1.4\obj\Debug\PracticeGameDigitalTechnologyVer1.4.pdb
+C:\Users\junda\source\repos\PracticeGameDigitalTechnologyVer1.4\obj\Debug\PracticeGameDigitalTechnologyVer1._4.Form3.resources
+C:\Users\junda\source\repos\PracticeGameDigitalTechnologyVer1.4\bin\Debug\Properties\Resources.resx
+C:\Users\junda\source\repos\PracticeGameDigitalTechnologyVer1.4\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\junda\source\repos\PracticeGameDigitalTechnologyVer1.4\bin\Debug\Resources\QuestionAndAnswer.txt
+C:\Users\junda\source\repos\PracticeGameDigitalTechnologyVer1.4\obj\Debug\PracticeGameDigitalTechnologyVer1._4.Form4.resources

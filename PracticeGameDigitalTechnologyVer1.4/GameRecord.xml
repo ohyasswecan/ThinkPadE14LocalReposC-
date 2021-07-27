@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gamerecord>
+  <game name="russianroulett">
+    <death>14</death>
+    <score>70</score>
+  </game>
+  <game name="hangingman">
+    <death>2</death>
+    <score>20</score>
+  </game>
+  <game name="pennygame">
+    <death>16</death>
+    <score>90</score>
+  </game>
+</gamerecord>

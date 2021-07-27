@@ -1,0 +1,4 @@
+﻿Death:Total death from both game
+Point from russian roulette: PR
+point form hanging man:PH
+top record: read and load xml file once the program loaded and ready to output the record

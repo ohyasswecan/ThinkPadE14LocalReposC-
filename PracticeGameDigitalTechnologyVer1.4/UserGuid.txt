@@ -1,0 +1,12 @@
+************User Guid*************
+////////////Game introduction///////////////////////
+This is a pratical game which combine hanging man and russian roulette , it also contains the record page
+to help user check the record of the both game. 
+==========================================Using Guidance====================================================
+No specified requirement for user to use, click and enjoy.
+============================================================================================================
+\\\\\\\\\\\\Test and improvement\\\\\\\\\\\\\\\\\\\\\
+The Application version of the game is in the bin\Release file.
+To check code of version1.4 please install VS2019 community or higher version of visual studio,.
+open project file and  click onto PracticeGameDigitalTechnologyVer1.4.sln
+/////////////////////////////////////////////////////
